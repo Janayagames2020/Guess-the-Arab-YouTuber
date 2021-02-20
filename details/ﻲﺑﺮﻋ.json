@@ -1,0 +1,2025 @@
+{
+    "tasksData": [
+        {
+            "name": "Easy Levels",
+            "localizedName": "1",
+            "gameType": 4,
+            "useMixedTypes": false,
+            "orderNumber": 1,
+            "Levels": [
+                {
+                    "number": 1,
+                    "rightAnswer": "لاس دهف",
+                    "imageText": "ﻝﺎﺳ ﺪﻬﻓ",
+                    "imageDescription": "Fahad Sal",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 10
+                },
+                {
+                    "number": 2,
+                    "rightAnswer": "ليعامسا ناسيب",
+                    "imageText": "ﻞﻴﻋﺎﻤﺳﺍ ﻥﺎﺴﻴﺑ",
+                    "imageDescription": "Bessan Ismail",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 10
+                },
+                {
+                    "number": 3,
+                    "rightAnswer": "دلاخ ركب",
+                    "imageText": "ﺪﻟﺎﺧ ﺮﻜﺑ",
+                    "imageDescription": "Bakr & Haifa",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 10
+                },
+                {
+                    "number": 4,
+                    "rightAnswer": "بنيز و نسح دمحأ ةلئاع",
+                    "imageText": "ﺐﻨﻳﺯ ﻭ ﻦﺴﺣ ﺪﻤﺣﺃ ﺔﻠﺋﺎﻋ",
+                    "imageDescription": "AZ Family",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 10
+                },
+                {
+                    "number": 5,
+                    "rightAnswer": "دارم ىليل",
+                    "imageText": "ﺩﺍﺮﻣ ﻰﻠﻴﻟ",
+                    "imageDescription": "Laila Mourad",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 10
+                },
+                {
+                    "number": 6,
+                    "rightAnswer": "نيدلا رخف ماسو",
+                    "imageText": "ﻦﻳﺪﻟﺍ ﺮﺨﻓ ﻡﺎﺳﻭ",
+                    "imageDescription": "ﻲﻟﻮﺑﺎﻧﺎﻓﺎﻓ",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 10
+                },
+                {
+                    "number": 7,
+                    "rightAnswer": "ثوغرب ايه",
+                    "imageText": "ﺙﻮﻏﺮﺑ ﺎﻴﻫ",
+                    "imageDescription": "two sisters tube",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 10
+                },
+                {
+                    "number": 8,
+                    "rightAnswer": "راتس ىفطصم",
+                    "imageText": "ﺭﺎﺘﺳ ﻰﻔﻄﺼﻣ",
+                    "imageDescription": "mustafa star",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 10
+                },
+                {
+                    "number": 9,
+                    "rightAnswer": "ركب هللا دبع",
+                    "imageText": "ﺮﻜﺑ ﻪﻠﻟﺍ ﺪﺒﻋ",
+                    "imageDescription": "The Saudi Reporters",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 10
+                },
+                {
+                    "number": 10,
+                    "rightAnswer": "هلوخ",
+                    "imageText": "ﻪﻟﻮﺧ",
+                    "imageDescription": "ﻪﻟﻮﺧ",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 10
+                },
+                {
+                    "number": 11,
+                    "rightAnswer": "مليوسلا يراشم",
+                    "imageText": "ﻢﻠﻳﻮﺴﻟﺍ ﻱﺭﺎﺸﻣ",
+                    "imageDescription": "Its OZX",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 10
+                },
+                {
+                    "number": 12,
+                    "rightAnswer": "ناور",
+                    "imageText": "ﻥﺍﻭﺭ",
+                    "imageDescription": "Rawan and Rayan",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 10
+                },
+                {
+                    "number": 13,
+                    "rightAnswer": "ناندع ةلئاع",
+                    "imageText": "ﻥﺎﻧﺪﻋ ﺔﻠﺋﺎﻋ",
+                    "imageDescription": "Bjlife",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 10
+                },
+                {
+                    "number": 14,
+                    "rightAnswer": "يدنارام نيدلا رون",
+                    "imageText": "ﻱﺪﻧﺍﺭﺎﻣ ﻦﻳﺪﻟﺍ ﺭﻮﻧ",
+                    "imageDescription": "Nour Mar5",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 10
+                },
+                {
+                    "number": 15,
+                    "rightAnswer": "يرمشلا دوجن",
+                    "imageText": "ﻱﺮﻤﺸﻟﺍ ﺩﻮﺠﻧ",
+                    "imageDescription": "Njoud",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 10
+                },
+                {
+                    "number": 16,
+                    "rightAnswer": "بيغر نيمأ",
+                    "imageText": "ﺐﻴﻏﺭ ﻦﻴﻣﺃ",
+                    "imageDescription": "Almohtarif channel",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 10
+                },
+                {
+                    "number": 17,
+                    "rightAnswer": "ديس",
+                    "imageText": "ﺪﻴﺳ",
+                    "imageDescription": "Arab Games Network",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 10
+                },
+                {
+                    "number": 18,
+                    "rightAnswer": "لوس ياكس",
+                    "imageText": "ﻝﻮﺳ ﻱﺎﻜﺳ",
+                    "imageDescription": "skysoul",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 10
+                },
+                {
+                    "number": 19,
+                    "rightAnswer": "ديع دمحم",
+                    "imageText": "ﺪﻴﻋ ﺪﻤﺤﻣ",
+                    "imageDescription": "Mohamed Eid",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 10
+                },
+                {
+                    "number": 20,
+                    "rightAnswer": "لصيف",
+                    "imageText": "ﻞﺼﻴﻓ",
+                    "imageDescription": "TMFaisal",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 10
+                },
+                {
+                    "number": 21,
+                    "rightAnswer": "رلسكت",
+                    "imageText": "ﺮﻠﺴﻜﺗ",
+                    "imageDescription": "Txlir",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 10
+                },
+                {
+                    "number": 22,
+                    "rightAnswer": "يدابعلا ريمأ",
+                    "imageText": "ﻱﺩﺎﺒﻌﻟﺍ ﺮﻴﻣﺃ",
+                    "imageDescription": "Ameer Alabadi",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 10
+                },
+                {
+                    "number": 23,
+                    "rightAnswer": "ناميلس ناكار",
+                    "imageText": "ﻥﺎﻤﻴﻠﺳ ﻥﺎﻛﺍﺭ",
+                    "imageDescription": "Rakan Suliman",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 10
+                },
+                {
+                    "number": 24,
+                    "rightAnswer": "ثوغرب كالم",
+                    "imageText": "ﺙﻮﻏﺮﺑ ﻙﻼﻣ",
+                    "imageDescription": "MALAK TUBE",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 10
+                },
+                {
+                    "number": 25,
+                    "rightAnswer": "يواسيعلا دومحم",
+                    "imageText": "ﻱﻭﺎﺴﻴﻌﻟﺍ ﺩﻮﻤﺤﻣ",
+                    "imageDescription": "Isawi",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 10
+                },
+                {
+                    "number": 26,
+                    "rightAnswer": "بوبحملا رونا",
+                    "imageText": "ﺏﻮﺒﺤﻤﻟﺍ ﺭﻮﻧﺍ",
+                    "imageDescription": "Anwar beloved",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 10
+                },
+                {
+                    "number": 27,
+                    "rightAnswer": "زمسوأ",
+                    "imageText": "ﺰﻤﺳﻭﺃ",
+                    "imageDescription": "oCMz",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 10
+                },
+                {
+                    "number": 28,
+                    "rightAnswer": "قراط دمحم",
+                    "imageText": "ﻕﺭﺎﻃ ﺪﻤﺤﻣ",
+                    "imageDescription": "Mohamd Tariq",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 10
+                },
+                {
+                    "number": 29,
+                    "rightAnswer": "جاح ليوج",
+                    "imageText": "ﺝﺎﺣ ﻞﻳﻮﺟ",
+                    "imageDescription": "Joelle Hajj",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 10
+                },
+                {
+                    "number": 30,
+                    "rightAnswer": "زورب ريمأ",
+                    "imageText": "ﺯﻭﺮﺑ ﺮﻴﻣﺃ",
+                    "imageDescription": "Ameer Bros",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 10
+                },
+                {
+                    "number": 31,
+                    "rightAnswer": "ازريم مظاك",
+                    "imageText": "ﺍﺯﺮﻴﻣ ﻢﻇﺎﻛ",
+                    "imageDescription": "ﺍﺯﺮﻴﻣ ﻢﻇﺎﻛ",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 10
+                },
+                {
+                    "number": 32,
+                    "rightAnswer": "رباغلا ديلو",
+                    "imageText": "ﺮﺑﺎﻐﻟﺍ ﺪﻴﻟﻭ",
+                    "imageDescription": "ﺮﺑﺎﻐﻟﺍ ﺪﻴﻟﻭ",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 10
+                },
+                {
+                    "number": 33,
+                    "rightAnswer": "زور يبور",
+                    "imageText": "ﺯﻭﺭ ﻲﺑﻭﺭ",
+                    "imageDescription": "RUBY ROSE",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 10
+                },
+                {
+                    "number": 34,
+                    "rightAnswer": "رقيات",
+                    "imageText": "ﺮﻘﻳﺎﺗ",
+                    "imageDescription": "t1GGEEr",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 10
+                },
+                {
+                    "number": 35,
+                    "rightAnswer": "نسح ىفطصم",
+                    "imageText": "ﻦﺴﺣ ﻰﻔﻄﺼﻣ",
+                    "imageDescription": "Mustafa Hasan",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 10
+                },
+                {
+                    "number": 36,
+                    "rightAnswer": "دخلا زع",
+                    "imageText": "ﺪﺨﻟﺍ ﺰﻋ",
+                    "imageDescription": "ﺪﺨﻟﺍ ﺰﻋ cm1",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 10
+                },
+                {
+                    "number": 37,
+                    "rightAnswer": "يديعصلا نيل",
+                    "imageText": "ﻱﺪﻴﻌﺼﻟﺍ ﻦﻴﻟ",
+                    "imageDescription": "Maya & Leen TV",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 10
+                },
+                {
+                    "number": 38,
+                    "rightAnswer": "ناطلس",
+                    "imageText": "ﻥﺎﻄﻠﺳ",
+                    "imageDescription": "sl6an--tgfz",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 10
+                },
+                {
+                    "number": 39,
+                    "rightAnswer": "يلكوام",
+                    "imageText": "ﻲﻠﻛﻭﺎﻣ",
+                    "imageDescription": "ﻲﻠﻛﻭﺎﻣ",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 10
+                },
+                {
+                    "number": 40,
+                    "rightAnswer": "ناكريب رالاس",
+                    "imageText": "ﻥﺎﻛﺮﻴﺑ ﺭﻻﺎﺳ",
+                    "imageDescription": "Berkan Challenges",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 10
+                },
+                {
+                    "number": 41,
+                    "rightAnswer": "ةيا",
+                    "imageText": "ﺔﻳﺍ",
+                    "imageDescription": "Ayatee",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 10
+                },
+                {
+                    "number": 42,
+                    "rightAnswer": "هرامع وريش",
+                    "imageText": "ﻩﺭﺎﻤﻋ ﻭﺮﻴﺷ",
+                    "imageDescription": "Shero Show",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 10
+                },
+                {
+                    "number": 43,
+                    "rightAnswer": "ةدانز وبأ ريمأ",
+                    "imageText": "ﺓﺩﺎﻧﺯ ﻮﺑٔﺍ ﺮﻴﻣٔﺍ",
+                    "imageDescription": "Lift and Cheat",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 10
+                },
+                {
+                    "number": 44,
+                    "rightAnswer": "شيوردلا دمحم",
+                    "imageText": "ﺶﻳﻭﺭﺪﻟﺍ ﺪﻤﺤﻣ",
+                    "imageDescription": "ﺶﻳﻭﺭﺪﻟﺍ ﺪﻤﺤﻣ",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 10
+                },
+                {
+                    "number": 45,
+                    "rightAnswer": "بياشلا سنا",
+                    "imageText": "ﺐﻳﺎﺸﻟﺍ ﺲﻧﺍ",
+                    "imageDescription": "Anas Elshayib",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 10
+                },
+                {
+                    "number": 46,
+                    "rightAnswer": "يتالاد يدوج",
+                    "imageText": "ﻲﺗﻻﺍﺩ ﻱﺩﻮﺟ",
+                    "imageDescription": "The Datis",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 10
+                },
+                {
+                    "number": 47,
+                    "rightAnswer": "يوارعم موهرب",
+                    "imageText": "ﻱﻭﺍﺮﻌﻣ ﻡﻮﻫﺮﺑ",
+                    "imageDescription": "Barhom m3arawi",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 10
+                },
+                {
+                    "number": 48,
+                    "rightAnswer": "ناوضر ىيحي",
+                    "imageText": "ﻥﺍﻮﺿﺭ ﻰﻴﺤﻳ",
+                    "imageDescription": "Yehia Radwan",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 10
+                },
+                {
+                    "number": 49,
+                    "rightAnswer": "رون ةلئاع",
+                    "imageText": "ﺭﻮﻧ ﺔﻠﺋﺎﻋ",
+                    "imageDescription": "NOOR Family",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 10
+                },
+                {
+                    "number": 50,
+                    "rightAnswer": "يمارصلا سارف",
+                    "imageText": "ﻲﻣﺍﺮﺼﻟﺍ ﺱﺍﺮﻓ",
+                    "imageDescription": "RealFeras",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 10
+                },
+                {
+                    "number": 51,
+                    "rightAnswer": "ريد دنه",
+                    "imageText": "ﺮﻳﺩ ﺪﻨﻫ",
+                    "imageDescription": "Hind Deer",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 10
+                },
+                {
+                    "number": 52,
+                    "rightAnswer": "يميعنلا دلاخ",
+                    "imageText": "ﻲﻤﻴﻌﻨﻟﺍ ﺪﻟﺎﺧ",
+                    "imageDescription": "Khalid Alnaimi",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 10
+                },
+                {
+                    "number": 53,
+                    "rightAnswer": "يميلودلا مثيه",
+                    "imageText": "ﻲﻤﻴﻟﻭﺪﻟﺍ ﻢﺜﻴﻫ",
+                    "imageDescription": "Hemo king",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 10
+                },
+                {
+                    "number": 54,
+                    "rightAnswer": "هضوع لآ رمع",
+                    "imageText": "ﻪﺿﻮﻋ ﻝٓﺍ ﺮﻤﻋ",
+                    "imageDescription": "Omar Al Odah",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 10
+                },
+                {
+                    "number": 55,
+                    "rightAnswer": "ريه ردب",
+                    "imageText": "ﺮﻴﻫ ﺭﺪﺑ",
+                    "imageDescription": "bader here",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 10
+                },
+                {
+                    "number": 56,
+                    "rightAnswer": "قوراف نمحرلا دبع",
+                    "imageText": "ﻕﻭﺭﺎﻓ ﻦﻤﺣﺮﻟﺍ ﺪﺒﻋ",
+                    "imageDescription": "Haman",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 10
+                },
+                {
+                    "number": 57,
+                    "rightAnswer": "يزعلا مادص",
+                    "imageText": "ﻱﺰﻌﻟﺍ ﻡﺍﺪﺻ",
+                    "imageDescription": "ﻱﺰﻌﻟﺍ ﻡﺍﺪﺻ",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 10
+                },
+                {
+                    "number": 58,
+                    "rightAnswer": "سارف دومحم",
+                    "imageText": "ﺱﺍﺮﻓ ﺩﻮﻤﺤﻣ",
+                    "imageDescription": "D-Gray - ﻱﺍﺮﻜﻳﺩ",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 10
+                },
+                {
+                    "number": 59,
+                    "rightAnswer": "يبيكوتيا",
+                    "imageText": "ﻲﺒﻴﻛﻮﺘﻳﺍ",
+                    "imageDescription": "ETooKB",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 10
+                },
+                {
+                    "number": 60,
+                    "rightAnswer": "ةدوغر",
+                    "imageText": "ﺓﺩﻮﻏﺭ",
+                    "imageDescription": "Ragoode",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 10
+                },
+                {
+                    "number": 61,
+                    "rightAnswer": "يليمصلا زيزعلا دبع",
+                    "imageText": "ﻲﻠﻴﻤﺼﻟﺍ ﺰﻳﺰﻌﻟﺍ ﺪﺒﻋ",
+                    "imageDescription": "Aziz - ﺰﻳﺰﻋ",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 10
+                },
+                {
+                    "number": 62,
+                    "rightAnswer": "راجن لا رهام نينسح",
+                    "imageText": "ﺭﺎﺠﻧ ﻝﺍ ﺮﻫﺎﻣ ﻦﻴﻨﺴﺣ",
+                    "imageDescription": "Hassanein Al-Najjar",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 10
+                },
+                {
+                    "number": 63,
+                    "rightAnswer": "يقاشلا ةلئاع",
+                    "imageText": "ﻲﻗﺎﺸﻟﺍ ﺔﻠﺋﺎﻋ",
+                    "imageDescription": "Family Alshaki",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 10
+                },
+                {
+                    "number": 64,
+                    "rightAnswer": "ىسوم يلع",
+                    "imageText": "ﻰﺳﻮﻣ ﻲﻠﻋ",
+                    "imageDescription": "abu srwal",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 10
+                },
+                {
+                    "number": 65,
+                    "rightAnswer": "دعر دمحا",
+                    "imageText": "ﺪﻋﺭ ﺪﻤﺣﺍ",
+                    "imageDescription": "AHmeD Gamez",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 10
+                },
+                {
+                    "number": 66,
+                    "rightAnswer": "يديعصلا ايام",
+                    "imageText": "ﻱﺪﻴﻌﺼﻟﺍ ﺎﻳﺎﻣ",
+                    "imageDescription": "Maya & Leen TV",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 10
+                }
+            ]
+        },
+        {
+            "name": "Hard Levels",
+            "localizedName": "3",
+            "gameType": 4,
+            "useMixedTypes": false,
+            "orderNumber": 3,
+            "Levels": [
+                {
+                    "number": 1,
+                    "rightAnswer": "ةورم سنأ",
+                    "imageText": "ﺓﻭﺮﻣ ﺲﻧﺃ",
+                    "imageDescription": "anasala family",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 2,
+                    "rightAnswer": "هرامع نيران",
+                    "imageText": "ﻩﺭﺎﻤﻋ ﻦﻳﺭﺎﻧ",
+                    "imageDescription": "Narins Beauty",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 3,
+                    "rightAnswer": "داسم دمحأ",
+                    "imageText": "ﺩﺎﺴﻣ ﺪﻤﺣﺃ",
+                    "imageDescription": "Ahmad Massad",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 4,
+                    "rightAnswer": "عيشم ةلئاع",
+                    "imageText": "ﻊﻴﺸﻣ ﺔﻠﺋﺎﻋ",
+                    "imageDescription": "mmoshaya",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 5,
+                    "rightAnswer": "فيرشلا هللا دبع",
+                    "imageText": "ﻒﻳﺮﺸﻟﺍ ﻪﻠﻟﺍ ﺪﺒﻋ",
+                    "imageDescription": "Abdullah ELshrif",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 6,
+                    "rightAnswer": "قوراف رمع",
+                    "imageText": "ﻕﻭﺭﺎﻓ ﺮﻤﻋ",
+                    "imageDescription": "Omar Farooq",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 7,
+                    "rightAnswer": "ليمج هللا دبع",
+                    "imageText": "ﻞﻴﻤﺟ ﻪﻠﻟﺍ ﺪﺒﻋ",
+                    "imageDescription": "Abdoh4Magic",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 8,
+                    "rightAnswer": "راتس سرون",
+                    "imageText": "ﺭﺎﺘﺳ ﺱﺭﻮﻧ",
+                    "imageDescription": "Nawras Sattar",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 9,
+                    "rightAnswer": "راطيب دومحم",
+                    "imageText": "ﺭﺎﻄﻴﺑ ﺩﻮﻤﺤﻣ",
+                    "imageDescription": "Bitar",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 10,
+                    "rightAnswer": "رورس يداش",
+                    "imageText": "ﺭﻭﺮﺳ ﻱﺩﺎﺷ",
+                    "imageDescription": "Shadi Srour",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 11,
+                    "rightAnswer": "فيس ما",
+                    "imageText": "ﻒﻴﺳ ﻡﺍ",
+                    "imageDescription": "Om sayf",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 12,
+                    "rightAnswer": "يلخدم ردنب",
+                    "imageText": "ﻲﻠﺧﺪﻣ ﺭﺪﻨﺑ",
+                    "imageDescription": "BanderitaX",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 13,
+                    "rightAnswer": "يلصوم رهام",
+                    "imageText": "ﻲﻠﺻﻮﻣ ﺮﻫﺎﻣ",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 14,
+                    "rightAnswer": "وبعأ فسوي",
+                    "imageText": "ﻮﺒﻋﺃ ﻒﺳﻮﻳ",
+                    "imageDescription": "Misaha ﺔﺣﺎﺴﻣ",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 15,
+                    "rightAnswer": "رواش رمع",
+                    "imageText": "ﺭﻭﺎﺷ ﺮﻤﻋ",
+                    "imageDescription": "Shawar",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 16,
+                    "rightAnswer": "هلف وبأ",
+                    "imageText": "ﻪﻠﻓ ﻮﺑﺃ",
+                    "imageDescription": "AboFlah",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 17,
+                    "rightAnswer": "هرامع نيريش",
+                    "imageText": "ﻩﺭﺎﻤﻋ ﻦﻳﺮﻴﺷ",
+                    "imageDescription": "Sherin Amara",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 18,
+                    "rightAnswer": "ينابون نزي",
+                    "imageText": "ﻲﻧﺎﺑﻮﻧ ﻥﺰﻳ",
+                    "imageDescription": "Yazan Nobani",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 19,
+                    "rightAnswer": "داج يراس",
+                    "imageText": "ﺩﺎﺟ ﻱﺭﺎﺳ",
+                    "imageDescription": "Gad tv",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 20,
+                    "rightAnswer": "مدآ",
+                    "imageText": "ﻡﺩﺁ",
+                    "imageDescription": "ﺮﻠﻴﻛ ﻲﺒﻣﻭﺯ ZKHQ",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 21,
+                    "rightAnswer": "يكوبس رمع",
+                    "imageText": "ﻲﻛﻮﺒﺳ ﺮﻤﻋ",
+                    "imageDescription": "ﻲﻛﻮﺒﺳ",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 22,
+                    "rightAnswer": "ناكريب نيسح",
+                    "imageText": "ﻥﺎﻛﺮﻴﺑ ﻦﻴﺴﺣ",
+                    "imageDescription": "Berkan Challenges",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 23,
+                    "rightAnswer": "يبرع راشب",
+                    "imageText": "ﻲﺑﺮﻋ ﺭﺎﺸﺑ",
+                    "imageDescription": "bashar arabi",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 24,
+                    "rightAnswer": "انيت سنأ",
+                    "imageText": "ﺎﻨﻴﺗ ﺲﻧﺃ",
+                    "imageDescription": "Anes Tina",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 25,
+                    "rightAnswer": "تمكح ةدغر",
+                    "imageText": "ﺖﻤﻜﺣ ﺓﺪﻏﺭ",
+                    "imageDescription": "Raghda Hikmat",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 26,
+                    "rightAnswer": "نمحرلا دبع رمع",
+                    "imageText": "ﻦﻤﺣﺮﻟﺍ ﺪﺒﻋ ﺮﻤﻋ",
+                    "imageDescription": "MAX HD",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 27,
+                    "rightAnswer": "حافسلا وزيز",
+                    "imageText": "ﺡﺎﻔﺴﻟﺍ ﻭﺰﻳﺯ",
+                    "imageDescription": "ﺡﺎﻔﺴﻟﺍ ﻭﺰﻳﺯ",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 28,
+                    "rightAnswer": "ناحيف ةلئاع",
+                    "imageText": "ﻥﺎﺤﻴﻓ ﺔﻠﺋﺎﻋ",
+                    "imageDescription": "ﻥﺎﺤﻴﻓ ﺔﻠﺋﺎﻋ",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 29,
+                    "rightAnswer": "هطسألا امير",
+                    "imageText": "ﻪﻄﺳﻷﺍ ﺎﻤﻳﺭ",
+                    "imageDescription": "Rima",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 30,
+                    "rightAnswer": "يالك نمحرلا دبع",
+                    "imageText": "ﻱﻼﻛ ﻦﻤﺣﺮﻟﺍ ﺪﺒﻋ",
+                    "imageDescription": "iiKlay",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 31,
+                    "rightAnswer": "دلاخ دمحم",
+                    "imageText": "ﺪﻟﺎﺧ ﺪﻤﺤﻣ",
+                    "imageDescription": "Muhammed Khaled",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 32,
+                    "rightAnswer": "دوعس",
+                    "imageText": "ﺩﻮﻌﺳ",
+                    "imageDescription": "Saud Channel",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 33,
+                    "rightAnswer": "رهام رامع",
+                    "imageText": "ﺮﻫﺎﻣ ﺭﺎﻤﻋ",
+                    "imageDescription": "AM Fﻡﻼﻓﻻﺍﻭ ﺎﻳﺪﻴﻣﻮﻜﻠﻟ",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 34,
+                    "rightAnswer": "رآ يأ دمحأ",
+                    "imageText": "ﺭﺁ ﻱﺃ ﺪﻤﺣﺃ",
+                    "imageDescription": "Ahmed A R",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 35,
+                    "rightAnswer": "حاسمتلا دهف",
+                    "imageText": "ﺡﺎﺴﻤﺘﻟﺍ ﺪﻬﻓ",
+                    "imageDescription": "PlayAway",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 36,
+                    "rightAnswer": "ردب ةباصع",
+                    "imageText": "ﺭﺪﺑ ﺔﺑﺎﺼﻋ",
+                    "imageDescription": "Badr_Family",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 37,
+                    "rightAnswer": "حلاص فاون",
+                    "imageText": "ﺢﻟﺎﺻ ﻑﺍﻮﻧ",
+                    "imageDescription": "ﺮﺠﻴﺑ",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 38,
+                    "rightAnswer": "يزوم يزوف",
+                    "imageText": "ﻱﺯﻮﻣ ﻱﺯﻮﻓ",
+                    "imageDescription": "Fozi Mozi",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 39,
+                    "rightAnswer": "يعيبرلا دايإ",
+                    "imageText": "ﻲﻌﻴﺑﺮﻟﺍ ﺩﺎﻳﺇ",
+                    "imageDescription": "Ayad Al-Rubaie",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 40,
+                    "rightAnswer": "وناكار",
+                    "imageText": "ﻮﻧﺎﻛﺍﺭ",
+                    "imageDescription": "Rakanoo",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 41,
+                    "rightAnswer": "شولعنب ناسحا",
+                    "imageText": "ﺵﻮﻠﻌﻨﺑ ﻥﺎﺴﺣﺍ",
+                    "imageDescription": "Ihssane Benalluch",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 42,
+                    "rightAnswer": "موسوأ يدونه",
+                    "imageText": "ﻡﻮﺳﻭﺃ ﻱﺩﻮﻨﻫ",
+                    "imageDescription": "HANODY AWESOME",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 43,
+                    "rightAnswer": "ثوغرب مارم",
+                    "imageText": "ﺙﻮﻏﺮﺑ ﻡﺍﺮﻣ",
+                    "imageDescription": "two sisters tube",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 44,
+                    "rightAnswer": "ناندع دمحم",
+                    "imageText": "ﻥﺎﻧﺪﻋ ﺪﻤﺤﻣ",
+                    "imageDescription": "Mohamad Adnan",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 45,
+                    "rightAnswer": "ليلجلا دبع ءاثيم",
+                    "imageText": "ﻞﻴﻠﺠﻟﺍ ﺪﺒﻋ ﺀﺎﺜﻴﻣ",
+                    "imageDescription": "Maitha Abduljalil",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 46,
+                    "rightAnswer": "يدعاسلا رارك",
+                    "imageText": "ﻱﺪﻋﺎﺴﻟﺍ ﺭﺍﺮﻛ",
+                    "imageDescription": "ﻪﻴﻗﺍﺮﻌﻟﺍ ﺔﻳﺪﻴﻣﻮﻜﻟﺍ",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 47,
+                    "rightAnswer": "زراتس اريم",
+                    "imageText": "ﺯﺭﺎﺘﺳ ﺍﺮﻴﻣ",
+                    "imageDescription": "Meera Stars",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 48,
+                    "rightAnswer": "روتسد فيطللا دبع",
+                    "imageText": "ﺭﻮﺘﺳﺩ ﻒﻴﻄﻠﻟﺍ ﺪﺒﻋ",
+                    "imageDescription": "DSTOR ﺭﻮﺘﺳﺩ",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 49,
+                    "rightAnswer": "يشعلا مالسا",
+                    "imageText": "ﻲﺸﻌﻟﺍ ﻡﻼﺳﺍ",
+                    "imageDescription": "Islam Ashi",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 50,
+                    "rightAnswer": "يلعلا ارافيج",
+                    "imageText": "ﻲﻠﻌﻟﺍ ﺍﺭﺎﻔﻴﺟ",
+                    "imageDescription": "givara alali",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 51,
+                    "rightAnswer": "يريحب دمحأ",
+                    "imageText": "ﻱﺮﻴﺤﺑ ﺪﻤﺣﺃ",
+                    "imageDescription": "ﻱﺮﻴﺤﺑ ﺪﻤﺣﺃ",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 52,
+                    "rightAnswer": "جاك دلاخ",
+                    "imageText": "ﺝﺎﻛ ﺪﻟﺎﺧ",
+                    "imageDescription": "Kaj . ﺝﺎﻛ",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 53,
+                    "rightAnswer": "هناطلس رهام",
+                    "imageText": "ﻪﻧﺎﻄﻠﺳ ﺮﻫﺎﻣ",
+                    "imageDescription": "maherco gaming",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 54,
+                    "rightAnswer": "يف يت يج يت يلع",
+                    "imageText": "ﻲﻓ ﻲﺗ ﻲﺟ ﻲﺗ ﻲﻠﻋ",
+                    "imageDescription": "TGTV",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 55,
+                    "rightAnswer": "تباث فيشلا",
+                    "imageText": "ﺖﺑﺎﺛ ﻒﻴﺸﻟﺍ",
+                    "imageDescription": "ﻞﻴﺻﻷﺍ ﻡﺎﺷ",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 56,
+                    "rightAnswer": "زلبوا حلاص",
+                    "imageText": "ﺰﻠﺑﻭﺍ ﺢﻟﺎﺻ",
+                    "imageDescription": "oPiiLz - ﺢﻟﺎﺻ",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 57,
+                    "rightAnswer": "اشابلا دمحم",
+                    "imageText": "ﺎﺷﺎﺒﻟﺍ ﺪﻤﺤﻣ",
+                    "imageDescription": "mohammed albasha",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 58,
+                    "rightAnswer": "يريطملا هللا دبع",
+                    "imageText": "ﻱﺮﻴﻄﻤﻟﺍ ﻪﻠﻟﺍ ﺪﺒﻋ",
+                    "imageDescription": "MLZLZ ﺰـﻟﺰـﻠـﻣ",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 59,
+                    "rightAnswer": "ديسلا ميرك",
+                    "imageText": "ﺪﻴﺴﻟﺍ ﻢﻳﺮﻛ",
+                    "imageDescription": "Kareem Elsayed",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 60,
+                    "rightAnswer": "يكز رمع",
+                    "imageText": "ﻲﻛﺯ ﺮﻤﻋ",
+                    "imageDescription": "Omar Zaki Vlogs",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 61,
+                    "rightAnswer": "دلاخ ناينث",
+                    "imageText": "ﺪﻟﺎﺧ ﻥﺎﻴﻨﺛ",
+                    "imageDescription": "Thunayyan Khalid",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 62,
+                    "rightAnswer": "لامك نينح",
+                    "imageText": "ﻝﺎﻤﻛ ﻦﻴﻨﺣ",
+                    "imageDescription": "Hanen Kamal",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 63,
+                    "rightAnswer": "بور وبأ دمحأ",
+                    "imageText": "ﺏﻭﺭ ﻮﺑﺃ ﺪﻤﺣﺃ",
+                    "imageDescription": "Ahmad Aburob",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 64,
+                    "rightAnswer": "ديمح رالاس",
+                    "imageText": "ﺪﻴﻤﺣ ﺭﻻﺎﺳ",
+                    "imageDescription": "ALKRKY",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 65,
+                    "rightAnswer": "ناير",
+                    "imageText": "ﻥﺎﻳﺭ",
+                    "imageDescription": "Rawan and Rayan",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                }
+            ]
+        },
+        {
+            "name": "Medium Levels",
+            "localizedName": "2",
+            "gameType": 4,
+            "useMixedTypes": false,
+            "orderNumber": 2,
+            "Levels": [
+                {
+                    "number": 1,
+                    "rightAnswer": "ميعن رون",
+                    "imageText": "ﻢﻴﻌﻧ ﺭﻮﻧ",
+                    "imageDescription": "Noor Stars",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 2,
+                    "rightAnswer": "قاقلا يجان",
+                    "imageText": "ﻕﺎﻘﻟﺍ ﻲﺟﺎﻧ",
+                    "imageDescription": "Naji Elqaq",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 3,
+                    "rightAnswer": "نالع هناد",
+                    "imageText": "ﻥﻼﻋ ﻪﻧﺍﺩ",
+                    "imageDescription": "Dana Allan",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 4,
+                    "rightAnswer": "ضاير ةلئاع",
+                    "imageText": "ﺽﺎﻳﺭ ﺔﻠﺋﺎﻋ",
+                    "imageDescription": "ﺽﺎﻳﺭ ﺔﻠﺋﺎﻋ",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 5,
+                    "rightAnswer": "رزيد رمع",
+                    "imageText": "ﺭﺰﻳﺩ ﺮﻤﻋ",
+                    "imageDescription": "Omardizer",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 6,
+                    "rightAnswer": "ميرك ميرم",
+                    "imageText": "ﻢﻳﺮﻛ ﻢﻳﺮﻣ",
+                    "imageDescription": "ﺓﺭﺍﻮﺳﺇ",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 7,
+                    "rightAnswer": "شخب نمحرلا دبع",
+                    "imageText": "ﺶﺨﺑ ﻦﻤﺣﺮﻟﺍ ﺪﺒﻋ",
+                    "imageDescription": "Lift and Cheat",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 8,
+                    "rightAnswer": "يروخ سالوكين",
+                    "imageText": "ﻱﺭﻮﺧ ﺱﻻﻮﻜﻴﻧ",
+                    "imageDescription": "AJ+ ﺖﻳﺮﺒﻛ",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 9,
+                    "rightAnswer": "يتالاد دنر",
+                    "imageText": "ﻲﺗﻻﺍﺩ ﺪﻧﺭ",
+                    "imageDescription": "The Datis",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 10,
+                    "rightAnswer": "هللا دبع دشار",
+                    "imageText": "ﻪﻠﻟﺍ ﺪﺒﻋ ﺪﺷﺍﺭ",
+                    "imageDescription": "zSHOWz",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 11,
+                    "rightAnswer": "يميمتلا رماع",
+                    "imageText": "ﻲﻤﻴﻤﺘﻟﺍ ﺮﻣﺎﻋ",
+                    "imageDescription": "3AMR ﺮﻣﺎﻋ",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 12,
+                    "rightAnswer": "باطح داهج",
+                    "imageText": "ﺏﺎﻄﺣ ﺩﺎﻬﺟ",
+                    "imageDescription": "Joe HaTTab",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 13,
+                    "rightAnswer": "يناوج دمحم",
+                    "imageText": "ﻲﻧﺍﻮﺟ ﺪﻤﺤﻣ",
+                    "imageDescription": "Mohamad Gowani",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 14,
+                    "rightAnswer": "لازغ اليه",
+                    "imageText": "ﻝﺍﺰﻏ ﻼﻴﻫ",
+                    "imageDescription": "Hayla TV",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 15,
+                    "rightAnswer": "دمحأ فسوي",
+                    "imageText": "ﺪﻤﺣﺃ ﻒﺳﻮﻳ",
+                    "imageDescription": "Yousef Ahmed",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 16,
+                    "rightAnswer": "فيرش دمحا",
+                    "imageText": "ﻒﻳﺮﺷ ﺪﻤﺣﺍ",
+                    "imageDescription": "Ahmed Sharif",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 17,
+                    "rightAnswer": "حلاملا ةلاصأ",
+                    "imageText": "ﺢﻟﺎﻤﻟﺍ ﺔﻟﺎﺻﺃ",
+                    "imageDescription": "anasala family",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 18,
+                    "rightAnswer": "نوكسم ورمع",
+                    "imageText": "ﻥﻮﻜﺴﻣ ﻭﺮﻤﻋ",
+                    "imageDescription": "Amr Maskoun",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 19,
+                    "rightAnswer": "فيسلا لصيف",
+                    "imageText": "ﻒﻴﺴﻟﺍ ﻞﺼﻴﻓ",
+                    "imageDescription": "UTD Saudi",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 20,
+                    "rightAnswer": "جاحلا لساب",
+                    "imageText": "ﺝﺎﺤﻟﺍ ﻞﺳﺎﺑ",
+                    "imageDescription": "Basil ElHaj",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 21,
+                    "rightAnswer": "يعفاش ةيناد",
+                    "imageText": "ﻲﻌﻓﺎﺷ ﺔﻴﻧﺍﺩ",
+                    "imageDescription": "DanyahShafei",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 22,
+                    "rightAnswer": "دوحو رماس",
+                    "imageText": "ﺩﻮﺣﻭ ﺮﻣﺎﺳ",
+                    "imageDescription": "ﺎﻳﺭﻮﺳ ﻦﺑﺍ A_B_N_SYRIA",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 23,
+                    "rightAnswer": "رلياد زيزعلا دبع",
+                    "imageText": "ﺮﻠﻳﺍﺩ ﺰﻳﺰﻌﻟﺍ ﺪﺒﻋ",
+                    "imageDescription": "Dyler ﺮﻠﻳﺍﺩ",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 24,
+                    "rightAnswer": "ركب زيزعلا دبع",
+                    "imageText": "ﺮﻜﺑ ﺰﻳﺰﻌﻟﺍ ﺪﺒﻋ",
+                    "imageDescription": "TheSaudiReporters",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 25,
+                    "rightAnswer": "ةنيكس",
+                    "imageText": "ﺔﻨﻴﻜﺳ",
+                    "imageDescription": "Soukaina ﺔﻨﻴﻜﺳ",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 26,
+                    "rightAnswer": "دامع دهش",
+                    "imageText": "ﺩﺎﻤﻋ ﺪﻬﺷ",
+                    "imageDescription": "Shahad Imad",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 27,
+                    "rightAnswer": "دلاخ",
+                    "imageText": "ﺪﻟﺎﺧ",
+                    "imageDescription": "Khaled ﺪﻟﺎﺧ",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 28,
+                    "rightAnswer": "دمحا ردان",
+                    "imageText": "ﺪﻤﺣﺍ ﺭﺩﺎﻧ",
+                    "imageDescription": "Nader Ahmed",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 29,
+                    "rightAnswer": "ةطوراز فسوي",
+                    "imageText": "ﺔﻃﻭﺭﺍﺯ ﻒﺳﻮﻳ",
+                    "imageDescription": "YOUCEF ZAROUTA",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 30,
+                    "rightAnswer": "نوز فلخ",
+                    "imageText": "ﻥﻭﺯ ﻒﻠﺧ",
+                    "imageDescription": "KhalafZone",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 31,
+                    "rightAnswer": "لامج ىفطصم",
+                    "imageText": "ﻝﺎﻤﺟ ﻰﻔﻄﺼﻣ",
+                    "imageDescription": "Mustafa Jamal",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 32,
+                    "rightAnswer": "ميات ناكار",
+                    "imageText": "ﻢﻳﺎﺗ ﻥﺎﻛﺍﺭ",
+                    "imageDescription": "RakanTime",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 33,
+                    "rightAnswer": "بيطخلا نيمساي",
+                    "imageText": "ﺐﻴﻄﺨﻟﺍ ﻦﻴﻤﺳﺎﻳ",
+                    "imageDescription": "Yasoo",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 34,
+                    "rightAnswer": "دهش",
+                    "imageText": "ﺪﻬﺷ",
+                    "imageDescription": "Siamand & Shahad",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 35,
+                    "rightAnswer": "يحوصن ورمع",
+                    "imageText": "ﻲﺣﻮﺼﻧ ﻭﺮﻤﻋ",
+                    "imageDescription": "Saba7o Korah",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 36,
+                    "rightAnswer": "اخر هللا دبع",
+                    "imageText": "ﺎﺧﺭ ﻪﻠﻟﺍ ﺪﺒﻋ",
+                    "imageDescription": "Abdallah Rakha",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 37,
+                    "rightAnswer": "نازر",
+                    "imageText": "ﻥﺍﺯﺭ",
+                    "imageDescription": "Rozzah",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 38,
+                    "rightAnswer": "ينهجلا سارف",
+                    "imageText": "ﻲﻨﻬﺠﻟﺍ ﺱﺍﺮﻓ",
+                    "imageDescription": "Fir4sGamer",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 39,
+                    "rightAnswer": "زميق نويزم يكرت",
+                    "imageText": "ﺰﻤﻴﻗ ﻥﻮﻳﺰﻣ ﻲﻛﺮﺗ",
+                    "imageDescription": "GamesMzuuoon",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 40,
+                    "rightAnswer": "يبعكلا دمحم",
+                    "imageText": "ﻲﺒﻌﻜﻟﺍ ﺪﻤﺤﻣ",
+                    "imageDescription": "Uae Skills ﺰﻠﻴﻜﺳ",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 41,
+                    "rightAnswer": "فراع رارسأ",
+                    "imageText": "ﻑﺭﺎﻋ ﺭﺍﺮﺳﺃ",
+                    "imageDescription": "ﻦﻳﻮﻛ ﺎﻣﺍﺭﺩ",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 42,
+                    "rightAnswer": "سابع لساب",
+                    "imageText": "ﺱﺎﺒﻋ ﻞﺳﺎﺑ",
+                    "imageDescription": "BasSTOP",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 43,
+                    "rightAnswer": "ةورم ةماسا",
+                    "imageText": "ﺓﻭﺮﻣ ﺔﻣﺎﺳﺍ",
+                    "imageDescription": "Osama Marwah",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 44,
+                    "rightAnswer": "هللا دبع ردب",
+                    "imageText": "ﻪﻠﻟﺍ ﺪﺒﻋ ﺭﺪﺑ",
+                    "imageDescription": "zSHOWz",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 45,
+                    "rightAnswer": "ينابهشلا يلع",
+                    "imageText": "ﻲﻧﺎﺒﻬﺸﻟﺍ ﻲﻠﻋ",
+                    "imageDescription": "ali alshohbani",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 46,
+                    "rightAnswer": "يرمحألا ناير",
+                    "imageText": "ﻱﺮﻤﺣﻷﺍ ﻥﺎﻳﺭ",
+                    "imageDescription": "MjrmGames",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 47,
+                    "rightAnswer": "ميهاربإ نمحرلا دبع",
+                    "imageText": "ﻢﻴﻫﺍﺮﺑﺇ ﻦﻤﺣﺮﻟﺍ ﺪﺒﻋ",
+                    "imageDescription": "d7oomy_999 ﻲﻣﻮﺣﺩ",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 48,
+                    "rightAnswer": "ديز وبأ دمحأ",
+                    "imageText": "ﺪﻳﺯ ﻮﺑﺃ ﺪﻤﺣﺃ",
+                    "imageDescription": "ﻦﻳﻼﻧﻭﺃ ﺱﻭﺭﺩ",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 49,
+                    "rightAnswer": "ناورم ثيغ",
+                    "imageText": "ﻥﺍﻭﺮﻣ ﺚﻴﻏ",
+                    "imageDescription": "Ghaith Marwan",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 50,
+                    "rightAnswer": "دلاخ رصان",
+                    "imageText": "ﺪﻟﺎﺧ ﺮﺻﺎﻧ",
+                    "imageDescription": "Naz ﺯﺎﻧ",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 51,
+                    "rightAnswer": "ميعن نينب",
+                    "imageText": "ﻢﻴﻌﻧ ﻦﻴﻨﺑ",
+                    "imageDescription": "banen stars",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 52,
+                    "rightAnswer": "مالس نيسح",
+                    "imageText": "ﻡﻼﺳ ﻦﻴﺴﺣ",
+                    "imageDescription": "S7S",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 53,
+                    "rightAnswer": "نارمع لآ نسح",
+                    "imageText": "ﻥﺍﺮﻤﻋ ﻝﺁ ﻦﺴﺣ",
+                    "imageDescription": "MrMrSnB2",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 54,
+                    "rightAnswer": "ردنكسا سنا",
+                    "imageText": "ﺭﺪﻨﻜﺳﺍ ﺲﻧﺍ",
+                    "imageDescription": "Anas Iskander",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 55,
+                    "rightAnswer": "زبوت هللا دبع",
+                    "imageText": "ﺰﺑﻮﺗ ﻪﻠﻟﺍ ﺪﺒﻋ",
+                    "imageDescription": "TOPZ ﺰﺑﻮﺗ",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 56,
+                    "rightAnswer": "ىفطصم دنمايس",
+                    "imageText": "ﻰﻔﻄﺼﻣ ﺪﻨﻣﺎﻴﺳ",
+                    "imageDescription": "Siamand & Shahad",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 57,
+                    "rightAnswer": "يميعنلا هللادبع",
+                    "imageText": "ﻲﻤﻴﻌﻨﻟﺍ ﻪﻠﻟﺍ ﺪﺒﻋ",
+                    "imageDescription": "ﻲﻤﻴﻌﻨﻟﺍ ﻪﻠﻟﺍ ﺪﺒﻋ",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 58,
+                    "rightAnswer": "هرامع ارديس",
+                    "imageText": "ﻩﺭﺎﻤﻋ ﺍﺭﺪﻴﺳ",
+                    "imageDescription": "Cedra Amara",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 59,
+                    "rightAnswer": "يدادغبلا هط",
+                    "imageText": "ﻱﺩﺍﺪﻐﺒﻟﺍ ﻪﻃ",
+                    "imageDescription": "Taha al-Baghdadi",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 60,
+                    "rightAnswer": "دولاملا هللا دبع",
+                    "imageText": "ﺩﻮﻟﺎﻤﻟﺍ ﻪﻠﻟﺍ ﺪﺒﻋ",
+                    "imageDescription": "Almalood ﺩﻮﻟﺎﻤﻟﺍ",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 61,
+                    "rightAnswer": "يهاس يؤل",
+                    "imageText": "ﻲﻫﺎﺳ ﻱﺆﻟ",
+                    "imageDescription": "Lowi Sahi",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 62,
+                    "rightAnswer": "يراخب لصيف",
+                    "imageText": "ﻱﺭﺎﺨﺑ ﻞﺼﻴﻓ",
+                    "imageDescription": "Fasoleyya",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 63,
+                    "rightAnswer": "نيدلا ريخ ةدابع",
+                    "imageText": "ﻦﻳﺪﻟﺍ ﺮﻴﺧ ﺓﺩﺎﺒﻋ",
+                    "imageDescription": "Obada sykh",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 64,
+                    "rightAnswer": "يواضر ىضترم",
+                    "imageText": "ﻱﻭﺎﺿﺭ ﻰﻀﺗﺮﻣ",
+                    "imageDescription": "Mortada Radawy",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 65,
+                    "rightAnswer": "افش",
+                    "imageText": "ﺎﻔﺷ",
+                    "imageDescription": "shfa",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                }
+            ]
+        }
+    ],
+    "gameItems": [
+        {
+            "key": 0,
+            "value": "ﺐﻌﻟﺇ"
+        },
+        {
+            "key": 1,
+            "value": "ﺕﺎﻣﻮﻠﻌﻣ"
+        },
+        {
+            "key": 2,
+            "value": "ﺝﻭﺮﺧ"
+        },
+        {
+            "key": 3,
+            "value": "ﻉﻮﺟﺭ"
+        },
+        {
+            "key": 4,
+            "value": "ﺾﻌﺑ ﻞﺤﻟ ﺪﻌﺘﺳﺍ ﻡﺪﺨﺘﺳﺍ؟ﺖﻘﻠﻋ!ﺯﺎﻐﻟﻷﺍ ﺐﺴﻛﺍ!ﺔﻔﻠﺘﺨﻣ ﺕﺎﺤﻴﻤﻠﺗ ﻦﻣ ﺔﻴﻧﺪﻌﻤﻟﺍ ﺩﻮﻘﻨﻟﺍ ﻡﺎﻬﻤﻟﺍ ﻝﺎﻤﻜﺘﺳﺍ ﻝﻼﺧ ﺓﺪﻫﺎﺸﻣ ﻖﻳﺮﻃ ﻦﻋﻭﺃ !ﻊﺘﻤﺘﺳﺇ!ﺓﺮﻴﺼﻗ ﻊﻃﺎﻘﻣ"
+        },
+        {
+            "key": 5,
+            "value": "ﻖﻠﻐﻣ"
+        },
+        {
+            "key": 6,
+            "value": "ﻑﺮﺣ ﻦﻋ ﻒﺸﻜﻟﺍ"
+        },
+        {
+            "key": 7,
+            "value": "ﻑﻭﺮﺤﻟﺍ ﻑﺬﺣ"
+        },
+        {
+            "key": 8,
+            "value": "ﺔﺑﺎﺟﻹﺍ ﻰﻠﻋ ﻞﺼﺣﺇ"
+        },
+        {
+            "key": 9,
+            "value": "ﺩﻮﻘﻧ ﺔﻓﺎﺿﺇ"
+        },
+        {
+            "key": 10,
+            "value": "ﻥﻼﻋﻹﺍ ﺪﻫﺎﺷ"
+        },
+        {
+            "key": 11,
+            "value": "ﺔﻴﻘﻴﻘﺣ ﺩﻮﻘﻨﺑ ﺮﺘﺷﺍ"
+        },
+        {
+            "key": 12,
+            "value": "ﺭﺍﺮﻤﺘﺳﺍ"
+        },
+        {
+            "key": 13,
+            "value": "ﺔﻴﺴﻴﺋﺮﻟﺍ ﺔﻤﺋﺎﻘﻟﺍ"
+        },
+        {
+            "key": 14,
+            "value": "! ﺔﻠﺣﺮﻤﻟﺍ ﺖﻬﺘﻧﺍ"
+        },
+        {
+            "key": 15,
+            "value": "ﺔﺒﻌﻠﻟﺍ ﻢﻳّﻗ"
+        },
+        {
+            "key": 16,
+            "value": "ﻡّﻴﻗ"
+        },
+        {
+            "key": 18,
+            "value": "ًﺎﻘﺣﻻ"
+        },
+        {
+            "key": 17,
+            "value": "ًﺍﺪﺑﺃ"
+        },
+        {
+            "key": 19,
+            "value": "ﺕﺎﻧﺎﻴﺒﻟﺍ ﻊﻤﺟ ﺔﻘﻓﺍﻮﻣ"
+        },
+        {
+            "key": 20,
+            "value": "ﺔﻴﺼﺨﺷ ﺕﺎﻧﻼﻋﺇ"
+        },
+        {
+            "key": 21,
+            "value": "ﺔﺼﺼﺨﻤﻟﺍ ﺕﺎﻧﻼﻋﻹﺍ ﺭﺎﻬﻇﺇﻭ ﺎﻬﻌﻤﺟ ﻢﺗ ﻲﺘﻟﺍ ﺕﺎﻧﺎﻴﺒﻟﺍ ﻡﺍﺪﺨﺘﺳﺎﺑ ﺕﺎﻧﻼﻋﻹﺍ ﺕﺎﻜﺒﺸﻟ ﺡﺎﻤﺴﻟﺍ"
+        },
+        {
+            "key": 22,
+            "value": "ﻢﻌﻧ"
+        },
+        {
+            "key": 23,
+            "value": "ﻻ"
+        },
+        {
+            "key": 24,
+            "value": "!ﻞﻀﻓﺃ ﻡﺪﻘﺗ ﻥﺃ ﻦﻜﻤﻳ"
+        },
+        {
+            "key": 25,
+            "value": "؟ﻪﻠﻴﻤﺤﺗ ﺪﻳﺮﺗ ﻞﻫ"
+        },
+        {
+            "key": 26,
+            "value": "، ﻚﻣﻼﻋﻹ ﻂﻘﻓ !ﺎﺒﺣﺮﻣ  ﺕﺎﻧﺎﻴﺑ ﻡﺪﺨﺘﺴﻧ ﻦﺤﻧ ﻚﺘﻘﻓﺍﻮﻤﺑ ﺯﺎﻬﺠﻟﺍو ﺐﻌﻠﻟﺍ !ﺎﻨﺘﺒﻌﻟ ﻦﻴﺴﺤﺘﻟ "
+        },
+        {
+            "key": 27,
+            "value": "ﻚﻟ ﻡﺪﻘﻧ ﻥﺃ ﺎﻨﻣ ﺪﻳﺮﺗ ﻞﻫ ﺔﻠﺻ ﺕﺍﺫ ﺕﺎﻧﻼﻋﺇ  ؟ﻚﺗﺎﻣﺎﻤﺘﻫﺍ ﺐﺳﺎﻨﺗ "
+        },
+        {
+            "key": 28,
+            "value": "ﻖﻓﺍﻭﺃ"
+        },
+        {
+            "key": 29,
+            "value": "ﺪﻳﺰﻤﻟﺍ"
+        },
+        {
+            "key": 30,
+            "value": "ﺔﺌﻃﺎﺧ ﺔﺑﺎﺟﺇ ﻑﺬﺣ"
+        },
+        {
+            "key": 31,
+            "value": "ﺄﻄﺧ ﻦﻴﺘﺑﺎﺟﺇ ﻑﺬﺣ"
+        },
+        {
+            "key": 32,
+            "value": "ﺄﻄﺨﻠﻟ ﺔﺻﺮﻓ"
+        },
+        {
+            "key": 33,
+            "value": "!ﻯﻮﺘﺴﻤﻟﺍ ﻝﺎﻤﻛﻹ ﻲﻧﺪﻋﺎﺳ"
+        },
+        {
+            "key": 34,
+            "value": "ﺀﺎﻗﺪﺻﻷﺍ ﻦﻣ ﺓﺪﻋﺎﺴﻣ"
+        },
+        {
+            "key": 35,
+            "value": "ﺀﺎﻗﺪﺻﻷﺍ ﻝﺄﺳﺇ"
+        },
+        {
+            "key": 36,
+            "value": "ﻦﻫﺍﺭ"
+        },
+        {
+            "key": 37,
+            "value": "ﻚﺘﻬﺟﺍﻭ ﺍﺫﺇ ﺕﺎﺤﻴﻤﻠﺗ ﻡﺪﺨﺘﺳﺍ !ﺔﻠﻜﺸﻣ"
+        },
+        {
+            "key": 38,
+            "value": "ﻪﺤﺴﻤﻟ ﻑﺮﺤﻟﺍ ﻰﻠﻋ ﻂﻐﺿﺍ"
+        },
+        {
+            "key": 39,
+            "value": "!ﺓﺭﻮﺼﻟﺍ ﻦﻋ ﻒﺸﻜﻠﻟ ﻂﺸﻛﺃ"
+        },
+        {
+            "key": 40,
+            "value": " ﺓﺭﻮﺼﻟﺍ ﻞﻌﺠﻟ ﺍﺬﻫ ﻕﻮﻓ ﺮﻘﻧﺍ  !ﺩﻮﻘﻧ ﺐﻠﻄﺘﻳ .ﺍًﺣﻮﺿﻭ ﺮﺜﻛﺃ"
+        },
+        {
+            "key": 41,
+            "value": "!ﺩﻮﻘﻧ ﻒﻠﻜﺗ ﺮﺜﻛﺃ ﺡﻮﺿﻮﻟ ﺮﻘﻧﺃ"
+        },
+        {
+            "key": 42,
+            "value": "ﺓﺮﻤ ﻂﻐﺿﺍ .ﺐﻳﻮﺼﺘﻟﺍ ﺀﺪﺒﻟ ﻂﻐﺿﺍ !ﺩﻮﻘﻧ ﺐﻠﻄﺘﻳ .ﺭﺎﻨﻟﺍ ﻕﻼﻃﻹ ﺔﻴﻧﺎﺜ"
+        },
+        {
+            "key": 43,
+            "value": ".ﻕﻼﻃﻺﻟ ﻢﺛ ﺐﻳﻮﺼﺘﻠﻟﺮﻘﻧﺃ !ﺩﻮﻘﻧ ﻒﻠﻜﺗ"
+        },
+        {
+            "key": 44,
+            "value": "ﺏﻮﻴﺗﻮﻴﻟﺍ ﺓﺎﻨﻗ ﻢﺳﺍ ﺽﺮﻋ"
+        },
+        {
+            "key": 45,
+            "value": "!ﺢﻴﺤﺻ ﻥﺎﻫﺮﺑ ﻢﻗ ؟ﺔﻤﻬﻤﻟﺍ ﻩﺬﻫ ﺔﺑﻮﻌﺻ ﻯﺪﻣ ﺎﻣ"
+        },
+        {
+            "key": 46,
+            "value": "ﺎﻨﺑﺎﻌﻟﺃ"
+        },
+        {
+            "key": 47,
+            "value": "ﺔﻟﻭﺎﺤﻤﻟﺍ ﺪﻋﺃ"
+        }
+    ],
+    "subCategories": [],
+    "randomLetters": [
+        1601,
+        1608,
+        1602,
+        1582,
+        1585,
+        1610,
+        1581,
+        1575,
+        1577,
+        1574,
+        1588,
+        1587,
+        1576,
+        1604,
+        1578,
+        1606,
+        1605,
+        1603,
+        1591,
+        1590,
+        1589,
+        1579,
+        1594,
+        1593,
+        1607,
+        1580,
+        1583,
+        1584,
+        1592,
+        1586,
+        1609,
+        1572,
+        1569
+    ]
+}
